@@ -1,4 +1,4 @@
-# La Liga 2024/25 - Análisis de Rendimiento de Jugadores y Equipos 🇪🇸
+# La Liga 2024/25 - Análisis de Rendimiento de Jugadores y Equipos
 
 ## Visión General
 Este proyecto presenta un análisis exploratorio de datos de la temporada 2024/25 de La Liga, centrado en estadísticas tanto a nivel de jugadores como de equipos. El objetivo es descubrir tendencias, relaciones y actuaciones destacadas mediante el uso de Python y herramientas de visualización.
@@ -30,12 +30,8 @@ El conjunto de datos contiene **601 jugadores únicos** e incluye métricas bás
 5. ¿Qué revelan las estadísticas por 90 minutos sobre estilo y eficiencia?
 6. ¿Qué jugadores son más versátiles según los gráficos radar?
 
-## Herramientas de Visualización Utilizadas
-- Mapas de calor de correlación entre métricas por 90 minutos
-- Gráfico de dispersión xG vs Goles
-- Gráficos radar multidimensionales
-- Distribución de jugadores por nacionalidad
-- Promedios y comparativas por equipo
+## Visualización Destacada
+![Goles Esperados vs Goles Reales](xg_vs_goals.png)
 
 ## Tecnologías
 - Python (Pandas, NumPy)
