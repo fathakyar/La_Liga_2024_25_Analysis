@@ -30,12 +30,8 @@ The dataset contains **601 unique players** and includes both basic and advanced
 5. What do per 90 stats reveal about style and efficiency?
 6. Who are the most versatile players according to multi-metric radar charts?
 
-## Visual Tools Used
-- Correlation heatmaps for per-90 relationships
-- xG vs Goals scatter plot
-- Player radar charts (multidimensional)
-- Nation-based player distributions
-- Team averages and performance summaries
+## Sample Visualization
+![Expected Goals vs Actual Goals](xg_vs_goals.png)
 
 ## Technologies
 - Python (Pandas, NumPy)
